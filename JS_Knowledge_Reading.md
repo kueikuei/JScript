@@ -1,7 +1,7 @@
->bower:前端套件管理工具
->gulp:任務自動化工具，轉譯：scss轉css、ES6轉ES5
->browserify:模組化工具
->babel:JS轉譯器
+>bower:前端套件管理工具  
+>gulp:任務自動化工具，轉譯：scss轉css、ES6轉ES5  
+>browserify:模組化工具  
+>babel:JS轉譯器   
 >ESLint:JS代碼檢查工具
 
 # iRich 愛記帳 
